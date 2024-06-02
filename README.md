@@ -1,6 +1,7 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://akshaygrandhi-portfolio.vercel.app/)
-<h1 align="center">Hi 👋, I'm Akshay G</h1>
-<h3 align="center">A passionate frontend developer from Amrita Vishwa Vidyapeetham, Coimbatore</h3>
+<h1 align="center">🚀 About </h1>
+<h3 align="left">Hi there 👋, I'm Akshay</h3>
+<h3 align="left">A passionate frontend developer from Amrita Vishwa Vidyapeetham, Coimbatore</h3>
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 
