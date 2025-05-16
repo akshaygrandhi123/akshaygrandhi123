@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/akshay_grandhi" target="blank"><img src="https://img.shields.io/twitter/follow/akshay_grandhi?logo=twitter&style=for-the-badge" alt="akshay_grandhi" /></a> </p>
 
-- 🔭 I’m currently working on **E-Nose tor Remote Detection and Monitoring of Airborne Pollution Hazards with Genetic AI**
+- 🔭 I’m recently worked on **E-Nose for Milk Adulteraation Detection**
 
 - 🌱 I’m currently learning **Prompt Engineering**
 
-- 👨‍💻 All of my Skills are available at [https://akshaygrandhi-portfolio.vercel.app/](https://akshaygrandhi-portfolio.vercel.app/)
+- 👨‍💻 All of my Skills are available at [https://akshaygrandhiportfolio.netlify.app/](https://akshaygrandhiportfolio.netlify.app/)
 
 - 💬 Ask me about **HTML, JS and CSS**
 
 - 📫 How to reach me **akshaygrandhi123@gmail.com**
 
-- 📄 Know about my experiences [https://akshaygrandhi-portfolio.vercel.app/pdf/resume.pdf](https://akshaygrandhi-portfolio.vercel.app/pdf/resume.pdf)
+- 📄 Know about my experiences [https://akshaygrandhiportfolio.netlify.app/pdfs/Resume.pdf](https://akshaygrandhiportfolio.netlify.app/pdfs/Resume.pdf)
 
 - ⚡ Fun fact **I don't spend too much time studying**
 
